@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "cesium-review": {
+      "command": "python",
+      "args": ["scripts/mcp_review_server/server.py"],
+      "env": {}
+    }
+  }
+}
